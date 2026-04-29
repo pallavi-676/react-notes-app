@@ -92,6 +92,5 @@ src/
 ## 👩‍💻 Author
 
 **Pallavi Sarovar**
-Frontend Developer | React Learner
 
 
